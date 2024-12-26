@@ -1,0 +1,21 @@
+name: Snake
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate snake
+        run: curl -s https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg > ./output/snake.svg
+      - name: Upload snake image
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake
+          path: ./output/snake.svg
