@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dimitar and I'm a Python Software Engineer, from Bulgaria</h2>
+<h2 align="left">Hi 👋! My name is Dimitar and I'm a Python Software Engineer, from Bulgaria!</h2>
 
 ###
 
