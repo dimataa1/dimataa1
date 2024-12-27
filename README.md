@@ -2,6 +2,14 @@
 
 ###
 
+<p align="left">
+  🌟 I am a Bulgarian student passionate about IT 💻, mathematics 📊, and artificial intelligence 🤖.  
+  🏀 Besides my technical interests, I love basketball and value personal growth.  
+  💪 Dedication, teamwork, and resilience are qualities I strive to embody every day!
+</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dimataa1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dimataa1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
