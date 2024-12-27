@@ -43,6 +43,7 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/dimataa1/dimataa1/output/snake.svg" alt="Snake animation" /> could here be a problem
 
 
 ###
