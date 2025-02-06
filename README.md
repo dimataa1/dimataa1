@@ -48,5 +48,5 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dimataa1/dimataa1/output/snake.svg?sanitize=true" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dimataa1/dimataa1/output/snake.svg" alt="Snake animation" />
 </p>
